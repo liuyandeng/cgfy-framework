@@ -2,8 +2,6 @@
 不定时集成一些实用的框架技术.
 
 
-![cgfy](cgfy.jpg)
-
 ## 目录
 
 ### cgfy-pattern
